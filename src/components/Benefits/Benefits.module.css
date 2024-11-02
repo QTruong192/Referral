@@ -1,0 +1,31 @@
+.benefitsContainer {
+  text-align: center;
+  color: #fff;
+  padding: 1rem 2rem;
+}
+.benefitsWrapper {
+  background-color: #101423;
+  padding: 5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.benefitsTitle {
+  background: rgb(76, 192, 230);
+  background: linear-gradient(
+    117deg,
+    rgba(76, 192, 230, 1) 28%,
+    rgba(125, 138, 237, 1) 85%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.contactLink {
+  color: #4cc0e6;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 1.3rem;
+}

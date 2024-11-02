@@ -1,0 +1,15 @@
+.chartTooltip {
+  background: rgb(17, 32, 67);
+  background: linear-gradient(
+    274deg,
+    rgba(17, 32, 67, 1) 15%,
+    rgba(165, 179, 245, 1) 51%,
+    rgba(165, 179, 245, 1) 52%,
+    rgba(17, 32, 67, 1) 85%
+  );
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  z-index: 1000 !important;
+  border: 1px solid rgb(136, 139, 167);
+}
